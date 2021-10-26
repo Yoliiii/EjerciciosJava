@@ -11,6 +11,6 @@ public class Ejercicio45 {
 
         System.out.println("Introduce un número: ");
 
-        //Muestra el resultado por pantalla
+        //Muestra el resultado por pantalla,
     }
 }
